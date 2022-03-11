@@ -1,4 +1,4 @@
-function start() { // Inicio da função start()
+function start() { 
 
 	$("#inicio").hide();
   $("#fundoGame").append("<div id='placar'></div>");
@@ -8,8 +8,6 @@ function start() { // Inicio da função start()
 	$("#fundoGame").append("<div id='inimigo2'></div>");
 	$("#fundoGame").append("<div id='amigo' class='anima3'></div>");
 
-  //Principais variáveis do jogo
-	
   var jogo = {}
   const TECLA = {
     W: 87,
@@ -25,12 +23,12 @@ function start() { // Inicio da função start()
   var salvos = 0;
   var perdidos = 0; 
   var energiaAtual = 3;
-  var somDisparo=document.getElementById("somDisparo");
-  var somExplosao=document.getElementById("somExplosao");
-  var musica=document.getElementById("musica");
-  var somGameover=document.getElementById("somGameover");
-  var somPerdido=document.getElementById("somPerdido");
-  var somResgate=document.getElementById("somResgate");
+  var somDisparo = document.getElementById("somDisparo");
+  var somExplosao = document.getElementById("somExplosao");
+  var musica = document.getElementById("musica");
+  var somGameover = document.getElementById("somGameover");
+  var somPerdido = document.getElementById("somPerdido");
+  var somResgate = document.getElementById("somResgate");
   //Música em loop
 musica.addEventListener("ended", function(){ musica.currentTime = 0; musica.play(); }, false);
 musica.play();
