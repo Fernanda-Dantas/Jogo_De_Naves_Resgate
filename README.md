@@ -9,11 +9,24 @@ Projeto que fiz no curso "Construindo o seu primeiro Jogo de Naves" do Bootcamp 
   
   
   # Tecnologias utilizadas:
-  * HTML
-  * CSS
-  * Javascript
-  * jQuery
+  * [HTML](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate/blob/main/index.html)
+  * [CSS](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate/blob/main/styles.css)
+  * [Javascript](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate/blob/main/assets.js)
+  * [jQuery](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate/blob/main/assets.js)
   
   
   # Neste projeto, aprendi a:
+  * Organizar funcionalidades de um Jogo de Naves
+  * Construir uma página da web com HTML;
+  * Adicionar estilos com CSS;
+  * Manipular mídia contida em arquivo HTML no código em Javascript;
+  * Manipular elementos do DOM com Javascript;
+  * Adicionar ações, mídia e conteúdo com .addEventListener;
+  * Utilizar o teclado como controle no jogo;
+  * Manipular elementos CSS no arquivo Javascript;
+  * Converter strings com parseInt;
+  * Utilizar a Biblioteca Math;
+  * Criar elementos em loop;
+  * Utilizar alguns métodos do Javascript, como: .play(), .remove() e .start();
+  * Utilizar algumas funções temporizadoras como: setInterval() e clearInterval().
   
