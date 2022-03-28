@@ -16,7 +16,7 @@ Projeto que fiz no curso "Construindo o seu primeiro Jogo de Naves" do Bootcamp 
   
   
   # Neste projeto, aprendi a:
-  * Organizar funcionalidades de um Jogo de Naves
+  * Organizar funcionalidades de um Jogo de Naves;
   * Construir uma página da web com HTML;
   * Adicionar estilos com CSS;
   * Manipular mídia contida em arquivo HTML no código em Javascript;
