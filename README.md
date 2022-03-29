@@ -5,8 +5,7 @@ Projeto que fiz no curso "Construindo o seu primeiro Jogo de Naves" do Bootcamp 
   
   ![gif_resgate](https://user-images.githubusercontent.com/81118959/160459192-89b9dfd5-e43f-4717-8494-0dc33523f50c.gif)
   
-  Acesse o site do jogo
-  
+   
   
   # Tecnologias utilizadas:
   * [HTML](https://github.com/Fernanda-Dantas/Jogo_De_Naves_Resgate/blob/main/index.html)
